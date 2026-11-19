@@ -1,159 +1,109 @@
 <div align="center">
+  <img src="./assets/kobz-banner.png" alt="Kobz — Lucas Constantino | Software Development, System Design, Game Systems" width="100%" />
 
-<!-- PROFILE // KOBZ -->
+  <br />
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  KOBZ.EXE                                           [ONLINE]  ║
-║                                                              ║
-║  LUCAS CONSTANTINO                                           ║
-║  SOFTWARE DEVELOPMENT  //  SYSTEM DESIGN  //  GAME SYSTEMS    ║
-╚══════════════════════════════════════════════════════════════╝
-```
+  **Desenvolvedor full-stack • Automações & Dados • Arquitetura de Software • Game Dev**
 
-### `> Building systems. Solving problems. Designing experiences._`
+  Construindo sistemas reais, explorando arquiteturas e transformando ideias em experiências digitais.
 
-Desenvolvedor com experiência em **automações, dados e aplicações web**, aprofundando conhecimentos em **arquitetura de software, testes e desenvolvimento de jogos**.
-
-[![GitHub](https://img.shields.io/badge/GitHub-kobzc-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kobzc)
-![Focus](https://img.shields.io/badge/FOCUS-Software%20Engineering-7c3aed?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-Building-00bfa6?style=for-the-badge)
-
+  [![GitHub](https://img.shields.io/badge/GitHub-kobzc-181717?style=for-the-badge&logo=github)](https://github.com/kobzc)
+  [![Delights Lene](https://img.shields.io/badge/Delights%20Lene-LIVE-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://delightslene.com/)
 </div>
 
 ---
 
-### `01 // PLAYER PROFILE`
+### 👾 PLAYER PROFILE // Sobre mim
 
-```yaml
-alias: Kobz
-name: Lucas Constantino
-background:
-  - Automação de processos e relatórios
-  - Análise e tratamento de dados
-  - Desenvolvimento web
-current_focus:
-  - Arquitetura e design de software
-  - Desenvolvimento orientado a especificações (SDD)
-  - Testes, segurança e qualidade
-  - Orquestração de agentes de IA
-  - Sistemas e arquitetura de jogos
-```
+Sou **Lucas Constantino (Kobz)**, desenvolvedor com experiência em aplicações web, automações e análise de dados. Trabalho com **React, Node.js, TypeScript, Python** e ferramentas de dados, buscando unir decisões técnicas sólidas a uma boa experiência de uso.
 
-Minha experiência começou com a criação de soluções para tornar processos mais eficientes usando **Python, pandas, Excel, Google Sheets e Apps Script**. Hoje também desenvolvo aplicações próprias e estudo como construir software de forma mais **estruturada, sustentável e testável**.
+Atualmente aprofundo meus estudos em **arquitetura de software, Spec-Driven Development (SDD), segurança, IA e orquestração de agentes**, além de explorar o desenvolvimento de jogos.
 
-> **Quest atual:** evoluir como engenheiro de software, combinando fundamentos sólidos de engenharia com ferramentas modernas de desenvolvimento assistido por IA.
+### 🧰 TECH INVENTORY // Stack
 
-### `02 // TECH INVENTORY`
+**Aplicações web**
 
-**`WEB / BACKEND`**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=DD0031)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+**Dados e automação**
 
-**`DATA / AUTOMATION`**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) ![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![pandas](https://img.shields.io/badge/pandas-0d1117?style=flat-square&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0d1117?style=flat-square&logo=googlesheets&logoColor=34A853)
-![Apps Script](https://img.shields.io/badge/Apps%20Script-0d1117?style=flat-square&logo=googleappsScript&logoColor=4285F4)
+**Persistência e ferramentas**
 
-**`ENGINEERING / CURRENT STUDIES`**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![Unity](https://img.shields.io/badge/Unity%20%2F%20C%23-Studying-7c3aed?style=flat-square&logo=unity&logoColor=white)
-![Architecture](https://img.shields.io/badge/Software%20Architecture-Studying-7c3aed?style=flat-square)
-![SDD](https://img.shields.io/badge/SDD-Studying-7c3aed?style=flat-square)
-
-### `03 // FEATURED QUESTS`
+### 🎮 FEATURED QUESTS // Projetos em destaque
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="50%" valign="top">
 
-**🍰 Delights Lene**  
-`FULL-STACK · LIVE IN PRODUCTION · PRIVATE REPOSITORY`
+#### 🍰 Delights Lene
 
-Plataforma para confeitaria, com catálogo, configuração de produtos, pedidos, área administrativa e regras comerciais de precificação.
+**🟢 EM PRODUÇÃO · Código privado**
 
-**Stack:** React · TypeScript · Node.js · Express · MongoDB  
-**Status:** em produção (LIVE). Evolução contínua da plataforma.
+Plataforma full-stack para confeitaria com catálogo digital, personalização de produtos, precificação comercial e gerenciamento de pedidos.
 
-<sub>Repositório privado. Detalhes técnicos públicos poderão ser disponibilizados em um estudo de caso.</sub>
+`React` `TypeScript` `Node.js` `Express` `MongoDB`
 
-</td>
-<td width="50%" valign="top">
+**[🌐 Acessar aplicação — delightslene.com](https://delightslene.com/)**
 
-**⚔️ ArcanFire**  
-`GAME SYSTEM DESIGN · PRIVATE REPOSITORY`
+</td><td width="50%" valign="top">
 
-Projeto de RPG de artilharia com foco em sistemas de combate, progressão, balanceamento e arquitetura para desenvolvimento em Unity.
+#### ⚔️ ArcanFire
 
-**Áreas:** Game Design · SDD · Arquitetura · Unity/C# (planejamento)  
-**Status:** especificação e pré-produção.
+**🟣 EM DESENVOLVIMENTO · Código privado**
 
-<sub>Repositório privado. Mecânicas e decisões de arquitetura poderão compor um estudo de caso.</sub>
+RPG de artilharia com foco em sistemas de combate, progressão, economia e arquitetura de jogo. Projeto em fase de planejamento técnico e prototipação.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`Game Design` `Unity / C# (planejado)` `System Design`
 
-**🏀 NBA Analytics**  
-`DATA VISUALIZATION · PUBLIC`
+*Estudo de caso público em preparação.*
 
-Aplicação em Streamlit para exploração de informações de times, posições e jogadores da NBA.
+</td></tr>
+<tr><td width="50%" valign="top">
 
-**Stack:** Python · Streamlit  
-**[Ver repositório](https://github.com/kobzc/NBAproject2023)**
+#### 🏀 NBA Analytics
 
-</td>
-<td width="50%" valign="top">
+Dashboard interativo de análise de dados da NBA, com visões de times, posições e jogadores.
 
-**💻 Start Computers**  
-`FRONTEND · PUBLIC`
+`Python` `Streamlit` `Data Visualization`
 
-Projeto web desenvolvido com Angular 19, TypeScript e Angular Material.
+**[📂 Ver repositório](https://github.com/kobzc/NBAproject2023)**
 
-**Stack:** Angular · TypeScript · Angular Material  
-**[Ver repositório](https://github.com/kobzc/start-computers-angular19)**
+</td><td width="50%" valign="top">
 
-</td>
-</tr>
+#### 🖥️ Start Computers
+
+Aplicação web desenvolvida com Angular, TypeScript e Angular Material.
+
+`Angular 19` `TypeScript` `Angular Material`
+
+**[📂 Ver repositório](https://github.com/kobzc/start-computers-angular19)**
+
+</td></tr>
 </table>
 
-**`SIDE QUESTS`**  
-[Costs — React + JSON Server](https://github.com/kobzc/Costs) · [One Piece — HTML/CSS/JavaScript](https://github.com/kobzc/projeto-one-piece-completo)
+**Outros projetos:** [Costs — React](https://github.com/kobzc/Costs) · [One Piece — Front-end](https://github.com/kobzc/projeto-one-piece-completo)
 
-### `04 // ACTIVITY LOG`
+### 📊 ACTIVITY LOG // GitHub
 
 <div align="center">
-
-![GitHub activity streak](https://streak-stats.demolab.com?user=kobzc&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=00BFA6&currStreakLabel=CDD6F4)
-
-<sub>Atividade pública e contribuições privadas exibidas conforme as configurações de privacidade do GitHub. O widget depende de um serviço externo.</sub>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kobzc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas públicas do GitHub de Kobz" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobzc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens dos repositórios públicos" height="165" />
 </div>
 
-### `05 // NEXT LEVEL`
+> As estatísticas externas podem ficar temporariamente indisponíveis. Repositórios privados não são expostos nesta página.
 
-- `[IN PROGRESS]` Aprofundar arquitetura, padrões de projeto, testes e segurança.
-- `[IN PROGRESS]` Aplicar SDD e documentação técnica em projetos próprios.
-- `[EXPLORING]` Orquestração de agentes para apoiar o ciclo de desenvolvimento.
-- `[EXPLORING]` Sistemas de jogos, balanceamento e pipeline de produção em Unity.
+### 🧭 NEXT LEVEL // Próximos focos
+
+- 🏗️ Arquitetura de software, SDD e qualidade de código
+- 🤖 Inteligência artificial e orquestração de agentes
+- 🎮 Desenvolvimento de jogos e sistemas de gameplay
+- 🔐 Segurança, testes e engenharia de software
 
 ---
 
 <div align="center">
-
-`> End of profile. New builds incoming...`
-
-**[github.com/kobzc](https://github.com/kobzc)**
-
+  <sub>⚡ BUILD • LEARN • LEVEL UP — <a href="https://github.com/kobzc">@kobzc</a></sub>
 </div>
