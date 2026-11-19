@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/kobz-banner.png" alt="Kobz — Lucas Constantino | Software Development, System Design, Game Systems" width="100%" />
+  <img src="./kobz-banner.png" width="100%" alt="Kobz — Lucas Constantino">
 
   <br />
 
